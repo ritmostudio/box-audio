@@ -1,0 +1,1 @@
+load-module module-native-protocol-unix auth-anonymous=true auth-cookie-enabled=false
